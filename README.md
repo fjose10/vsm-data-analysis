@@ -21,8 +21,7 @@ The analysis focuses on understanding how synthesis conditions and microstructur
 
 2. **Data processing**
    - Normalization by sample mass and realization of the graph of the curves M vs T.
-
-   - Computation of the numerical derivative **dM/dT**
+   <img width="708" height="547" alt="image" src="https://github.com/user-attachments/assets/99d11a03-4988-4fa0-b8dd-b1dbd8d7a823" />
 
 3. **Feature extraction**
    - Identification of transition temperatures from peaks in dM/dT
@@ -36,7 +35,7 @@ The analysis focuses on understanding how synthesis conditions and microstructur
 
 5. **Visualization**
    - dM/dT curves for each sample
-   ![dM/dT Fit](images_dM_dT_fit_graph.png)
+   <img width="678" height="547" alt="image" src="https://github.com/user-attachments/assets/2ca8d0b9-3157-49a4-8b73-15e51ef5d2d3" />
    - Overlay of experimental data and fitted models
 
 ---
