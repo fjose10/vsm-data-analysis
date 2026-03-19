@@ -36,6 +36,7 @@ The analysis focuses on understanding how synthesis conditions and microstructur
 
 5. **Visualization**
    - dM/dT curves for each sample
+   ![dM/dT Fit](figures/dMdT_fit.png)
    - Overlay of experimental data and fitted models
 
 ---
