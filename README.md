@@ -3,7 +3,8 @@
 **A more detailed discussion is found in the "analysis.ipynb" file**
 
 This repository presents the analysis of experimental magnetization data (M vs T) obtained from VSM measurements, with the goal of identifying and characterizing magnetic curves in LaFeO₃-based samples in the context of 
-the analysis for my undergraduate thesis. 
+the analysis of these samples for my undergraduate thesis (Green precursor-assisted solid-state synthesis of LaFeO3 perovskite:
+role of tannic acid on structural and magnetic properties).
 
 ## Overview
 Two types of samples were studied:
