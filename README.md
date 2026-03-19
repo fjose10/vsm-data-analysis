@@ -23,19 +23,17 @@ The analysis focuses on understanding how synthesis conditions and microstructur
    - Normalization by sample mass and realization of the graph of the curves M vs T.
    <img width="708" height="547" alt="image" src="https://github.com/user-attachments/assets/99d11a03-4988-4fa0-b8dd-b1dbd8d7a823" />
 
-3. **Feature extraction**
+3. **Feature extraction and peak fitting**
    - Identification of transition temperatures from peaks in dM/dT
-   - Selection of fitting models around the transition
-
-4. **Peak fitting**
    - Lorentzian model using `lmfit`
    - Extraction of:
      **μ (mu)** → transition temperature  
      **σ (sigma)** → peak width (transition broadening)
 
-5. **Visualization**
+4. **Visualization**
    - dM/dT curves for each sample
-   <img width="678" height="547" alt="image" src="https://github.com/user-attachments/assets/2ca8d0b9-3157-49a4-8b73-15e51ef5d2d3" />
+  <img width="689" height="547" alt="image" src="https://github.com/user-attachments/assets/81a73ec0-2d1e-46b3-8b93-13f4f780cd23" />
+
    - Overlay of experimental data and fitted models
 
 ---
