@@ -1,6 +1,9 @@
 # Magnetic Transition Analysis in LaFeO₃ Samples
 
-This project presents the analysis of experimental magnetization data (M vs T) obtained from VSM measurements, with the goal of identifying and characterizing magnetic curves in LaFeO₃-based samples.
+** A more detailed discussion is found in the "analysis.ibynp" file**
+
+This repository presents the analysis of experimental magnetization data (M vs T) obtained from VSM measurements, with the goal of identifying and characterizing magnetic curves in LaFeO₃-based samples in the context of 
+the analysis for my undergraduate thesis. 
 
 ## Overview
 Two types of samples were studied:
