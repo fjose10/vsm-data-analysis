@@ -21,6 +21,7 @@ The analysis focuses on understanding how synthesis conditions and microstructur
 
 2. **Data processing**
    - Normalization by sample mass and realization of the graph of the curves M vs T.
+     
    <img width="708" height="547" alt="image" src="https://github.com/user-attachments/assets/99d11a03-4988-4fa0-b8dd-b1dbd8d7a823" />
 
 3. **Feature extraction and peak fitting**
@@ -31,10 +32,9 @@ The analysis focuses on understanding how synthesis conditions and microstructur
      **σ (sigma)** → peak width (transition broadening)
 
 4. **Visualization**
-   - dM/dT curves for each sample
+   - dM/dT curves for each sample and overlay of experimental data and fitted models.
+     
   <img width="689" height="547" alt="image" src="https://github.com/user-attachments/assets/81a73ec0-2d1e-46b3-8b93-13f4f780cd23" />
-
-   - Overlay of experimental data and fitted models
 
 ---
 
